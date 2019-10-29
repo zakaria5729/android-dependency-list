@@ -1,3 +1,4 @@
+### List of all (almost) important dependencies and their resources for android development (Java and Kotlin)
 *  ### [Architecture](#architecture)
     * [Data Binding](#data-binding)
     * [Lifecycles](#lifecycles)
