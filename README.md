@@ -1,4 +1,5 @@
 ### List of all (almost) important dependencies and their resources for android development (Java and Kotlin)
+URL: https://zakaria5729.github.io/android-dependency-list/
 *  ### [Architecture](#architecture)
     * [Data Binding](#data-binding)
     * [Lifecycles](#lifecycles)
@@ -795,6 +796,25 @@ dependencies {
 ```
 
 <a href="http://square.github.io/retrofit/#download" target="_blank">Release</a> | <a href="http://square.github.io/retrofit/" target="_blank">Doc</a> | <a href="" target="_blank">Resources</a>
+
+<div align="right">
+    <b> <a href="#library">↥ Back to top</a> </b>
+</div>
+
+---
+<br>
+
+### **Fast Android Networking**
+Fast Android Networking Library is a powerful library for doing any type of networking in Android applications which is made on top of OkHttp Networking Layer. Fast Android Networking Library takes care of each and everything. So you don't have to do anything, just make request and listen for the response.
+
+#### Java
+```gradle
+dependencies {
+    implementation 'com.amitshekhar.android:android-networking:1.0.2'
+}
+```
+
+<a href="https://amitshekhar.me/Fast-Android-Networking/" target="_blank">Release</a> | <a href="https://amitshekhar.me/Fast-Android-Networking/adding_fan_to_your_project.html" target="_blank">Doc</a> | <a href="" target="_blank">Resources</a>
 
 <div align="right">
     <b> <a href="#library">↥ Back to top</a> </b>
