@@ -47,6 +47,7 @@ URL: https://zakaria5729.github.io/android-dependency-list/
 
 * ### [Library](#library)
     * [Retrofit](#retrofit)
+    * [Fast Android Networking](#fast-android-networking)
     * [Gson](#gson)
     * [Moshi](#moshi)
     * [Glide](#glide)
